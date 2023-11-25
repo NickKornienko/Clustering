@@ -12,6 +12,6 @@ F) Clustering_timeseries_data.ipynb
 
 G) Document_clustering_using_LLM_embeddings.ipynb
 
-H)
+H) Clustering_with_images_using_LLM_embeddings.ipynb
 
 I)
