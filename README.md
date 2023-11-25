@@ -6,7 +6,7 @@ C) Gaussian_mixture_models_clustering.ipynb
 
 D) DB_Scan_clustering.ipynb
 
-E) 
+E) Anomaly_detection.ipynb
 
 F)
 
