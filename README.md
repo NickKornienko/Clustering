@@ -2,7 +2,7 @@ A) K_MeansClustering.ipynb
 
 B) Hierarchical_clustering.ipynb
 
-C) 
+C) Gaussian_mixture_models_clustering.ipynb
 
 D)
 
