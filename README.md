@@ -8,7 +8,7 @@ D) DB_Scan_clustering.ipynb
 
 E) Anomaly_detection.ipynb
 
-F)
+F) Clustering_timeseries_data.ipynb
 
 G)
 
